@@ -15,3 +15,4 @@ webpack --watch
 
 Files will be built into `dist/`. Just symlink that dir into your dapps path.
 
+# mydapp
